@@ -23,7 +23,7 @@ This repository is continuously updated as I progress through my Olympiad and JE
 ## Roadmap
 
 ### Mechanics
-- [x] Motion in 1D
+- [x] Motion in 1D  | Location: Mechanics/Motion in 1d
 - [ ] Motion in 2D
 - [ ] Newton's Laws of Motion
 - [ ] Work, Energy and Power
