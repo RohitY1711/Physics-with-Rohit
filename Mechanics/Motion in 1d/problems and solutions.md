@@ -18,8 +18,7 @@
 
 #Handwritten solution:
 
-  for solution open file named: HCV q.31.jpg
-  Location of file:Mechanics/ motion in 1d/HCV q.31.jpg
+
 
 #Final Answer:
 
