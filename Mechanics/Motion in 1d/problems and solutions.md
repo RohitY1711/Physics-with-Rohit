@@ -11,7 +11,7 @@
     for this problem, we will use concept of relative velocity and and equation of motion.
 
 #Handwritten solution:
-          HCV q.31.jpg
-
+          for solution open file named: HCV q.31.jpg
+           Location of file:Mechanics/ motion in 1d/HCV q.31.jpg
 
 #Final Answer: 20 ft/s² downward
