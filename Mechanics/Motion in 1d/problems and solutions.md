@@ -11,7 +11,7 @@
     for this problem, we will use concept of relative velocity and and equation of motion.
 
 #Handwritten solution:
-         20260620_143324.jpg
+         
 
 
 #Final Answer: 20 ft/s² downward
