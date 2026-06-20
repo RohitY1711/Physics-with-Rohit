@@ -14,7 +14,7 @@ HCV Chapter: rest and Motion exercise Q.31
 
 #Handwritten solution:
 
-    ![HCV Q31](HCV-Q31.jpg)
+    
     
 #Final answer:
 20 ft/s² downward
