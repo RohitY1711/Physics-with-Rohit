@@ -14,7 +14,7 @@ for this problem, we will use concept of relative velocity and and equation of m
 
 #Handwritten solution:
 
-       ![HCV Q31](HCV-Q31.jpg)
+       https://github.com/RohitY1711/Physics-with-Rohit/blob/main/Mechanics/Motion%20in%201d/HCV-Q31.jpg?raw=true
 
 20 ft/s² downward
 
