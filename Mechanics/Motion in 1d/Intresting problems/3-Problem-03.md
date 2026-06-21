@@ -16,4 +16,4 @@ use a=dv/dt and a=vdv/ds
 ![Handwritten solution]()
 
 # Final answer:
-h(V<sub>0</sub> - v)/vv<sub>0</sub>(lnv<sub>0</sub>v)
+h(V<sub>0</sub> - V)/VV<sub>0</sub>(lnV<sub>0</sub>V)
