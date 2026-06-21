@@ -1,6 +1,6 @@
 # Problem 2
 
-### IE Irodov: Physical Fundamentals of Mechanics [Q1.101]
+### IE Irodov: Physical Fundamentals of Mechanics [Q1.3]
 
 # Problem summary:
 
