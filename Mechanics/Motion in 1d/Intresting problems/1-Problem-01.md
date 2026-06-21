@@ -6,12 +6,14 @@ HCV Chapter: rest and Motion exercise Q.31
 
 #Problem summary:
 
-    In this question we have to find acceleration of the elevator, when a coin is dropped from 6ft height in a lift going 
+    In this question we have to find acceleration of the elevator,
+    when a coin is dropped from 6ft height in a lift going 
     down and it touches the floor of lift after 1sec of fall.
 
 #Approach:
 
-     for this problem, we will use concept of relative velocity and and equation of motion.
+     for this problem, we will use concept of relative
+     velocity and and equation of motion.
 
 #Handwritten solution:
    -To see Image paste following URL in New tab
