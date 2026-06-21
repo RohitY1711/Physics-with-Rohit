@@ -13,7 +13,7 @@ use a=dv/dt and a=vdv/ds
 
 # Handwritten solution
 
-![Handwritten solution]()
+![Handwritten solution](https://github.com/RohitY1711/Physics-with-Rohit/blob/main/Mechanics/Motion%20in%201d/solutions/IE%20IRODOV%20Q1.101.jpg?)
 
 # Final answer:
 h(V<sub>0</sub> - V)/VV<sub>0</sub>(lnV<sub>0</sub>V)
