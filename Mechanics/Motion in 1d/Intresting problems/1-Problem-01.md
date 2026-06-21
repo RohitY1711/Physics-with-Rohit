@@ -1,7 +1,5 @@
 # Problem 1
 
-## source:
-
 ### HCV Chapter: rest and Motion exercise Q.31
 
 # Problem summary:
